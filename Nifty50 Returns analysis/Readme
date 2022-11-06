@@ -1,1 +1,19 @@
+I have populated the daily price returns of NIFTY50 (INDEX) for 16 years - 2007 to 2022.
+
+Seeing the return distribution, does it ring a bell? HISTOGRAM / normal distribution.
+
+You can see that the return distribution looks very much like the normal distribution. And this is true not just for NIFTY50 but also for other companies.
+
+The normality of equity returns is one of the primary reasons quants and stats are used so much in finance.
+
+People have built Nobel prize-winning valuation models around these normality assumptions, and investors build portfolios based on these simplistic assumptions.
+
+But here's the catch.
+
+Based on this assumption of normality, a simple calculation would show that the probability of a single-day fall for NIFTY50 of more than 9% is 0.0%. i.e., such an event should happen once in millions of years.
+And by the way, this happened twice in 2020.
+
+I am not against the use of quants and stats in finance. But blindly believing in simplistic assumptions and building levered portfolios based on them will surely not end well.
+
+Finance and investing, in my opinion, is a subject of social science, not pure science. And I love to learn it that way.
 
